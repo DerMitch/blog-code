@@ -8,7 +8,7 @@ use warnings;
 # Perl implementation to generate hashed urls for nginx' secure_link module.
 #
 
-require Digest::MD5;
+use Digest::MD5;
 
 my $prefix = "http://localhost:9005/p";
 my $link = "trade-secrets.txt";
