@@ -1,0 +1,4 @@
+# Python
+venv/
+*.py[co]
+__pycache__
