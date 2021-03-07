@@ -1,0 +1,11 @@
+# Python
+venv/
+*.py[co]
+__pycache__
+.coverage
+.mypy_cache
+.pytest_cache
+
+# macOS
+.DS_Store
+

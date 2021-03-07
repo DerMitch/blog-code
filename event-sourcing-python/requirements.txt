@@ -1,0 +1,4 @@
+mypy==0.812
+pylint==2.7.2
+pytest==6.2.2
+pytest-cov==2.11.1
